@@ -1,4 +1,4 @@
-lg-ls970
+LG Optimus G LS-970 ROM Development
 ========
 
-LG LS-970 Rom Development
+
