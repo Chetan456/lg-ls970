@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+   <permission name="com.lge.permission.ACCESS_LGFOTA" >
+        <group gid="lg_fota" />
+    </permission>
+    
+    <library name="com.lge.fota"
+            file="/system/framework/com.lge.fota.jar"/>
+
+</permissions>
+

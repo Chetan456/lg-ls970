@@ -1,0 +1,12 @@
+/system/framework/framework.odex
+/system/framework/framework2.odex
+/system/framework/core-junit.odex
+/system/framework/core.odex
+/system/framework/bouncycastle.odex
+/system/framework/ext.odex
+/system/framework/android.policy.odex
+/system/framework/services.odex
+/system/framework/apache-xml.odex
+/system/framework/filterfw.odex
+/system/framework/com.lge.mass.odex
+/system/framework/com.lge.core.odex

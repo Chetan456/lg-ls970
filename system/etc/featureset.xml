@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+	<FeatureSet>
+		<item name="support_send_burst_dtmf">true</item>
+		<item name="support_cdma_forward_burst_dtmf">true</item>
+		<item name="support_roaming_guard">true</item>
+		<item name="support_n11_codes">true</item>
+		<item name="ecc_number_set_in_hidden_menu">true</item>
+		<item name="copy_submit_to_uicc">true</item>
+		<item name="seperate_processing_sms_uicc">true</item>
+
+		<item name="cdma_kr_testbed_mms_receive">true</item>	 
+		<item name="support_spr_operator_numeric">true</item>	
+		<item name="sprint_location_spec">true</item>
+
+<!-- LGE_CHANGE_S, 20120605 kelly.seo@lge.com feature_for_korean_qe [START] { -->
+		<item name="spr_for_kor_qe">true</item>
+<!-- LGE_CHANGE_S, 20120605 kelly.seo@lge.com feature_for_korean_qe [END] } -->
+
+<!-- LGE_CHANGE_S, 20120613 kelly.seo@lge.com add_features [START] { -->
+		<item name="cdma_priority_indicator">true</item>
+		<item name="cdma_sms_callback">true</item>
+		<item name="show_Mdn_For_VMS">true</item>
+<!-- LGE_CHANGE_S, 20120613 kelly.seo@lge.com add_features [END] } -->
+
+<!-- LGE_CHANGE_S, 20120623 kelly.seo@lge.com features_for_seg_msg [START] { -->
+		<item name="sprint_reassembly_sms">true</item>
+		<item name="sprint_segment_sms">true</item>
+		<item name="sprint_not_support_reassembly_sms_setting_menu">false</item>
+<!-- LGE_CHANGE_S, 20120623 kelly.seo@lge.com features_for_seg_msg [END] } -->
+
+<!-- LGE_CHANGE_S, 20120625 kelly.seo@lge.com Ignore_MWI_for_SPR_VVM [START] { -->
+		<item name="support_sprint_vvm">true</item>
+<!-- LGE_CHANGE_S, 20120625 kelly.seo@lge.com Ignore_MWI_for_SPR_VVM [END] } -->
+
+<!-- LGE_CHANGE_S, 20120626 kelly.seo@lge.com Email_over_SMS [START] { -->
+		<item name="email_over_sms">true</item>
+<!-- LGE_CHANGE_E, 20120626 kelly.seo@lge.com Email_over_SMS [END] } -->
+
+<!-- LGE_CHANGE_S, 20120816 kelly.seo@lge.com International_roaming_guard [START] { -->
+		<item name="support_sprint_sms_roaming_guard">true</item>
+<!-- LGE_CHANGE_E, 20120816 kelly.seo@lge.com International_roaming_guard [END] } -->
+	</FeatureSet>
+</profiles>	
